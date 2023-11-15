@@ -1,0 +1,23 @@
+{
+  "name": "modul1",
+  "version": "1.0.0",
+  "description": "modul 1 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/maximusyudha/uaskk4db"
+  },
+  "author": "yudha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
